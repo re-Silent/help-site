@@ -1,15 +1,15 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "index": "Вступление",
+  "another": "Другое",
+  "advanced": "Дополнительно",
   "about": {
-    "title": "About",
+    "title": "О сайте",
     "type": "page"
   },
   "contact": {
-    "title": "Contact ↗",
+    "title": "Страница разработки ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "frontend.redevcms.ru",
     "newWindow": true
   }
 }
